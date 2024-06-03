@@ -1,0 +1,7 @@
+name = "email-worker"
+type = "javascript"
+
+account_id = "8de085d3964bfd0d61a796da0f21a396"
+zone_id = "0875ba94e931fa70a12d66328474f0d46"
+
+workers_dev = true
